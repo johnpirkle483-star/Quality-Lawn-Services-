@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://quality-lawn-services.netlify.app/sitemap.xml
